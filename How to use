@@ -1,0 +1,17 @@
+There are few steps before you can run the app
+1. Open "ParkingLotServer" on eclipse or any other IDE
+2. Run "ParkingLotServer" (dont have to log in into an account)
+3. Open The other files on android sutdio or any other IDE
+4. Log In
+
+
+--------------------------------------------------------------------------------------
+There are Three diffrent type of users:
+1.admin
+2.operator
+3.driver
+
+password for each one of them is: 123456
+
+admin can be you used only for "ParkingLotServer"
+the other two can be used only on the android studio
